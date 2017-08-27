@@ -26,7 +26,6 @@
           <li>I can paginate through the responses by adding a ?offset=10 parameter to the URL.</li>
           <li>I can get a list of the most recently submitted search strings.</li>
         </ul>
-      
       <h2>
         Example Usage:
       </h2>
