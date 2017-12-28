@@ -10,7 +10,7 @@
   </head>
   <body>
     <h1>
-      Image Search Abstraction
+      Image Search Abstraction Api
     </h1>
     <div>
       <p>
