@@ -14,7 +14,7 @@
     </h1>
     <div>
       <p>
-        This is an Image Search Abstraction api. Use it to find images on the web for your query strings.
+        A full stack JavaScript app that allows you to search for images 
       </p>
     </div>
     <div>
